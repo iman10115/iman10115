@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Iman. 
-- I'm a PhD student @ Concordia University.
 - 👀 I’m interested in a wide range of topics in Computer Vision and Image Processing, focussing on Image Retrieval, Multispectral Image Analysis, Object Tracking, Video Surveillance, Motion Estimation, Noise Estimation, Object Detection and Segmentation, Robotic Vision, Mobile Robot Mapping, Robot Design with Machine Learning and Kalman Filter
 - 📫 Reach me via imaniraei.ir
                    iman.iraei@aut.ac.ir                
